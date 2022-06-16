@@ -2,3 +2,4 @@ Sankage Tech Resolusi
 1. Konsisten Upload Konten 1 Minggu 3 Kali
 2. Membuat Website Portofolio
 3. Membuat Website Sanbase
+4. Membuat Website Sanmee
